@@ -12,3 +12,6 @@ v.2 is about:
 [-] beauty template script.
 
 Enjoy this script i made. just ordinary people who love coffee and coding stuff. 
+
+buy me some coffee!
+https://saweria.co/khairulkrhacx
