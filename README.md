@@ -1,18 +1,30 @@
 # discord-post sederhana 
                                    
-## source code di permudah sedikit agar lebih bisa di baca.
+## source code di permudah sedikit agar lebih mudah di baca.
 
-## • Tutorial 
+## • Cara mendapatkan informasi yang di perlukan untuk mengganti pada config 
 
 F12 di browser lalu ke menu 'Network' discord kalian. kirim 1 pesan pada target server dan channel tujuan.
 
 disana terdapat info apa saja yang harus di ganti.
+
 ![gambar](https://user-images.githubusercontent.com/72789792/210922863-ff200010-e478-4ea1-991e-811d9ddbbcfb.png)
 
 
 baca pelan-pelan agar paham.
 
 Terimakasih!
+
+## • Cara pakai
+
+- Install Xampp / termux ( untuk di pc / android )
+
+- download source code pada file ini
+
+- edit dahulu config, dan sesuaikan dengan kebutuhan kalian dan save it
+
+- lalu jalankan dengan cara mengetik : php discord.php
+
 
 ## • CONFIG 
 
