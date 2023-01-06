@@ -7,7 +7,7 @@
 F12 di browser lalu ke menu 'Network' discord kalian. kirim 1 pesan pada target server dan channel tujuan.
 
 disana terdapat info apa saja yang harus di ganti.
-![gambar](https://user-images.githubusercontent.com/72789792/210922032-756036b0-4f95-41f8-a3fe-7401ba748a6a.png)
+![gambar](https://user-images.githubusercontent.com/72789792/210922863-ff200010-e478-4ea1-991e-811d9ddbbcfb.png)
 
 
 baca pelan-pelan agar paham.
