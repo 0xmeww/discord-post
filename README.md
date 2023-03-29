@@ -1,8 +1,8 @@
-# discord-post sederhana 
-                                   
-## source code di permudah sedikit agar lebih mudah di baca.
+# discord-post new update! ( 30/03/2023 )
 
 ## • Cara mendapatkan informasi yang di perlukan untuk mengganti pada config 
+
+baca pelan-pelan agar paham.
 
 F12 di browser lalu ke menu 'Network' discord kalian. kirim 1 pesan pada target server dan channel tujuan.
 
@@ -11,34 +11,43 @@ disana terdapat info apa saja yang harus di ganti.
 ![gambar](https://user-images.githubusercontent.com/72789792/210922863-ff200010-e478-4ea1-991e-811d9ddbbcfb.png)
 
 
-baca pelan-pelan agar paham.
-
-Terimakasih!
-
 ## • Cara pakai
 
 - Install Xampp / termux ( untuk di pc / android )
 
-- download source code pada file ini
+- download source code
 
-- edit dahulu config, dan sesuaikan dengan kebutuhan kalian dan save it
+- edit dahulu config.php , dan sesuaikan dengan kebutuhan kalian dan save it
 
-- lalu jalankan dengan cara mengetik : php discord.php
+- lalu jalankan dengan cara mengetik : php main.php
 
 
-## • CONFIG 
+## • EDIT CONFIG.php
 
-- $auth = "EDIT SENDIRI"; // jangan lupa di ganti
+- $tokenAuth = "xxx"; // jangan lupa di ganti
 
-- $X_Super_Properties = "EDIT SENDIRI"; // jangan lupa di ganti
+- $X_Super_Properties = "xxx"; // jangan lupa di ganti
 
-- $cookie = "EDIT SENDIRI"; // jangan lupa di ganti
+- $cookie = "xxx"; // jangan lupa di ganti
 
-- $targetServer = "EDIT SENDIRI"; // jangan lupa di ganti
+- $targetServer = "xxx"; // jangan lupa di ganti
 
-- $targetChannel = "EDIT SENDIRI"; // jangan lupa di ganti
+- $targetChannel = "xxx"; // jangan lupa di ganti
 
-- $isiPesan = "EDIT SENDIRI"; // jangan lupa di ganti
+- $MessageArray // jangan lupa di ganti
+
+## • LOGS
+- first uploaded ( deleted )
+- second uploaded ( deleted )
+- new uploaded ( 30/03/2023 )
+
+1. random pesan pada script
+2. fix code
+3. easy to use
+
+## • Butuh bantuan ?
+
+- khairul#7025 ( chat discord )
 
 ## • Coffee for me ^_^
 
